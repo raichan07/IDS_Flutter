@@ -1,0 +1,12 @@
+export 'package:flutter/material.dart';
+export 'package:get/get.dart';
+export '../module/controller/list_picture_controller.dart';
+export '../module/widget/list_picture_widget.dart';
+export '../routes/app_route.dart';
+export '../module/controller/detail_picture_controller.dart';
+export '../module/widget/detail_picture_widget.dart';
+export '../service/picture_service.dart';
+export '../module/view/detail_picture_view.dart';
+export '../module/view/list_picture_view.dart';
+export '../module/binding/picture_banding.dart';
+export '../shared/loding_widget.dart'; 
